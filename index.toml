@@ -131,6 +131,11 @@ hash = "844c67461a97a2c8da327034806444c66579bc0fc118f0b9a0abe225d77ed7ce"
 metafile = true
 
 [[files]]
+file = "mods/falling-tree.pw.toml"
+hash = "e6f923a462483ca6233b7860d88952594417afa578196d690b7112339f469a6c"
+metafile = true
+
+[[files]]
 file = "mods/fastfurnace.pw.toml"
 hash = "e001ea41a138e42e5523e69b13523c1ebf76a1633320b3a7942b4eef76d36861"
 metafile = true
