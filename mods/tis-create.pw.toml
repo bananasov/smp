@@ -1,0 +1,13 @@
+name = "TIS-Create"
+filename = "tiscreate-1.19.2-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9d1c27909ba35346150a30c1dae6e4d728f3fbfa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4763769
+project-id = 831102
