@@ -61,6 +61,11 @@ hash = "3094a52897889217e37bf772fa43727fc4a7f81d0dc9a5e25be933630192bcbb"
 metafile = true
 
 [[files]]
+file = "mods/catalogue.pw.toml"
+hash = "f123a2b4bae7be86d7bc6c4f6cfb30d914991558cd744b3b3c561088848ae416"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "d9a854dc615bafee94247c2ad9e9d794f291c37cd03b61b9323222ad4a4a96e5"
 metafile = true
@@ -88,6 +93,11 @@ metafile = true
 [[files]]
 file = "mods/cofh-core.pw.toml"
 hash = "1a0def343336948a500f09414e21bd324eec8a30dd17422a1fefda8380dcac38"
+metafile = true
+
+[[files]]
+file = "mods/configured.pw.toml"
+hash = "767d7abb22c9ac0b9e300d35685847ff27aa1a942cd857fac31fe532683c2437"
 metafile = true
 
 [[files]]
@@ -152,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "9c1ff5a3593be85d3fcd47b8a7fe046d2ee37546af17f5686d27e218e9f7e017"
+hash = "3dd1936c1d9158575cd479b928fcdc01508c6b241d29bc57943befe0d751ec93"
 metafile = true
 
 [[files]]
@@ -317,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "989bbedf5e83064ae906b3ae61e1f5ed937bbcaa7cbf0f0053187b7cedf742e4"
+hash = "57881ff5befbd1ad9d50be4035321a613739c38ee627bec42c611b0ade004d2a"
 metafile = true
 
 [[files]]
