@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferritecore.pw.toml"
-hash = "0d6d8d7beaca1ae779f2e734db30da2595b98587f0714a6b15721664acf8f946"
+hash = "550b3de3b381de59621254f85bafc29ce4986e4277956e5b1cca98b0e8cff06c"
 metafile = true
 
 [[files]]
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "cf9249a0ddf11c8dfea6652c7842914127cd2af86af3dac13dbbb18aacfb5d5c"
+hash = "bb49a476f0880d57a4547c35d987a88382b324bca1f50e47633164fc73c2dc3d"
 metafile = true
 
 [[files]]
@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton-reforged.pw.toml"
-hash = "0e85bdbd2e7ed31821cc4a33f9b57c0e0a176a830693337bb1130146c879360e"
+hash = "ce783b1cef4c49c9a8572ceca99812e9b6ed980410a335d66ed5b761645708be"
 metafile = true
 
 [[files]]
@@ -312,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "3ff8c8b3282ec0c0a4ce16853acf5b7dd23297d4b557b280668b459739c709d0"
+hash = "8def45a48d62b220050f5b7c290dda439c71bdb1e30120f63eb15242b7e4517c"
 metafile = true
 
 [[files]]
