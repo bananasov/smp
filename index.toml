@@ -91,6 +91,11 @@ hash = "5880c81df1af395ec3762eff4e98c78f7b75e62db67e1d191a1772d79aabc073"
 metafile = true
 
 [[files]]
+file = "mods/codechicken-lib-1-8.pw.toml"
+hash = "79d38d4c976dadf89d2fd2978a0af50894ae0373fd784fecb369e47beda145bf"
+metafile = true
+
+[[files]]
 file = "mods/cofh-core.pw.toml"
 hash = "1a0def343336948a500f09414e21bd324eec8a30dd17422a1fefda8380dcac38"
 metafile = true
@@ -138,6 +143,11 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "844c67461a97a2c8da327034806444c66579bc0fc118f0b9a0abe225d77ed7ce"
+metafile = true
+
+[[files]]
+file = "mods/ender-storage-1-8.pw.toml"
+hash = "b8ba0a251d14abf255a8477337c2d81023228c779793218ef3990247632ef86e"
 metafile = true
 
 [[files]]
