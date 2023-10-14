@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/advanced-peripherals.pw.toml"
-hash = "66c6eb90e0bcefc09bb76f3852a92ec6aa5faf11a01001e6aaa22dfb6d6d866f"
+hash = "7d0eaa4dcbca122712fffb4cd8b02450d0b7bf9d0e08899bb82967a4471dc3b6"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "2e85f6535c148d7d538b0f80d5f17f15c8b182c25c5b6524df2b8341b88ccb53"
+hash = "164205fa6e64cbe27b2b383698cd2f9d42ff1b19ed820b95eb72e7d7eeadfde7"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "bb49a476f0880d57a4547c35d987a88382b324bca1f50e47633164fc73c2dc3d"
+hash = "919987a18eca78288796a47c577cb7762771de8bb221e3f35fdc70f9b823825f"
 metafile = true
 
 [[files]]
@@ -261,6 +261,16 @@ hash = "ad64853eb5ba56dc6e4b1bb9214dbfe28e2a0c865dc76b4b77edee0f11adceff"
 metafile = true
 
 [[files]]
+file = "mods/more-red-x-cc-tweaked-compat.pw.toml"
+hash = "c8a5b96df890c2a7c3fce413ea7a90447aefc29ea1246d41e5aa07ea2ec2bc31"
+metafile = true
+
+[[files]]
+file = "mods/more-red.pw.toml"
+hash = "8e17e82afa8b664f2f1dabbe72fcd172d14e5a431e67a0c0053d617c0560a8de"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "6c5e1d646bee1575bd994996b4428e0fe16c6a0bfc0fbab5c6fa0c8c35547863"
 metafile = true
@@ -272,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "adc8167bc99d4d4ca4acac96faa4a9df08782902f01d958adf4c7a393025e043"
+hash = "f3eeeb3eed7d37447078f64e58cca79628e460f7666f33be40ea30587ebefb2b"
 metafile = true
 
 [[files]]
@@ -292,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
-hash = "ca689e0ffb252da5258284da33836646d0c3fc1719e87929cf4a41e3f7bf41ad"
+hash = "ec3a739d407c00f054e498865df68d204ac861783e687f4e2313b25f4b0f5e20"
 metafile = true
 
 [[files]]
@@ -302,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "feeee060f81012d4a69bb47e6d50886182cc28370978e1b5edab645213a0ed96"
+hash = "d53eae6147500886e88c6e3e2f05e8c034377554e142d65addf27d36d2ec473e"
 metafile = true
 
 [[files]]
@@ -312,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/rechiseled.pw.toml"
-hash = "24257880c9064c33a703eab40850b8a3c4b38e5a660c530f6342331e3cae402b"
+hash = "1205c90a884f92145e10febc8f27a31ec9c1c0c7f3e7b6997157f77e4037309f"
 metafile = true
 
 [[files]]
@@ -357,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "57881ff5befbd1ad9d50be4035321a613739c38ee627bec42c611b0ade004d2a"
+hash = "54d63280847c1aeda342100d55fc63cbfcf9732c24f1e0cda325bc7216aadc05"
 metafile = true
 
 [[files]]
@@ -372,12 +382,12 @@ metafile = true
 
 [[files]]
 file = "mods/thermal-expansion.pw.toml"
-hash = "48456e931dc6f986efe9bde63c76f0014a2017ef4adcaa168597a7610ae4be46"
+hash = "1674bdf60e7e343ccdfb66489f8880912f68207ef4e8ab51fd814e40cef157ad"
 metafile = true
 
 [[files]]
 file = "mods/thermal-foundation.pw.toml"
-hash = "497c2d750f8a205866b65bf1148423d3025b4c037cb34116725c94313a385f0b"
+hash = "e620d8a97266e15bf3f2009ee60ef74c39ba6d20172026d90e1470c5e5929ce5"
 metafile = true
 
 [[files]]
