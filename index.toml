@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "6246a75881b9a8d7cd424b5f94af842a7eaa2f676c2042712fdfd95e89914d96"
+hash = "1e714b2dd9f513d4949e089ec5409a13d71dcbf8fbf33aa2d2a6c2012eada73b"
 metafile = true
 
 [[files]]
@@ -127,12 +127,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "d1ca7062b1b570fcaa7510f0bb53ce1c0904b19d2502b20aaddd55555367351f"
+hash = "73b933d38189720dbdbfd1f2f1a83231fd99d844a217fb90408809ac7a12445b"
 metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "e383476cde5d88b8f24936f1030defde1b202e6eedd52e078169f19fc7735c7c"
+hash = "8f7b16bd319a4c534acbc80f83e4359b756b301c76444d5a0afa1d1cb45d20a4"
 metafile = true
 
 [[files]]
@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "fdeab9633fc995e4910a08d6d8110a258f30b37c7a65128b8d6a46af797df3a0"
+hash = "57b08209dc2826b2a896785b02952de9a7cbd3f8cd3f393034b163d6727b9008"
 metafile = true
 
 [[files]]
@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/falling-tree.pw.toml"
-hash = "e6f923a462483ca6233b7860d88952594417afa578196d690b7112339f469a6c"
+hash = "8066019b08d6c6cb7232a63eb1b7018314d5283698171ee8cf56f730ef310e3e"
 metafile = true
 
 [[files]]
@@ -192,12 +192,12 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "3dd1936c1d9158575cd479b928fcdc01508c6b241d29bc57943befe0d751ec93"
+hash = "4216b9b543401fd93058ec37ac913f4b0b2d352a69f071c16612afa006a1a8f7"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "919987a18eca78288796a47c577cb7762771de8bb221e3f35fdc70f9b823825f"
+hash = "3671fe45b2321f60d598ca9a039732fcd72e3985d715ddd411e6c65645dc3421"
 metafile = true
 
 [[files]]
@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "be808b0e427ee7855a826df95893b3fe3f3cebff45fb47d89ad2bcc85932af4f"
+hash = "a9bac232dd82ebf6741c23c52bf73eba7396e9c014d47174af3e07379417d7f1"
 metafile = true
 
 [[files]]
@@ -327,12 +327,12 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph.pw.toml"
-hash = "b004022582a154f5d55c1b7660a4075f37962783dc20af8f046afe3bbc839171"
+hash = "a31ad085cc2d7044c380ea5015c1b944554e3d4cc76d57e939cf70bcbeb4b5dc"
 metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "ff6742aace7a51c492d8ec2025103d4627d2b157efba5902ba8a8f4bb7e6b14c"
+hash = "d06f9962b29db69d2e8fb32940cf29471eb6230043dc5fb9d341af36148a09c3"
 metafile = true
 
 [[files]]
@@ -342,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/rechiseled.pw.toml"
-hash = "f4c38fff3ef849574666c3fd89664e76b9ac92dfe15c0d3a0d7522c88acbc42a"
+hash = "efe8592d5d29cd183cca0fad1a6d6eb3b348491cacb038a575003b2687e3d980"
 metafile = true
 
 [[files]]
@@ -397,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "1ab6b34e42b6bc8c2f801e306de0957de2f0f964734acdc11cfa7dd1c82b55a0"
+hash = "cf51a271c627d3181edf7e1457cab2e938f8721fd2ed6425aab8f7259b63ee59"
 metafile = true
 
 [[files]]
@@ -452,10 +452,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "4bc45052af6997d245483069aad79225260be1773e6a578643f16773791ecfb3"
+hash = "0ea805ff6f93913e20975b60180ca94673be76ff3d209707a8c728fe56124c6f"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "ad2916b2d26a7a3a255e889d0032e5539005dc3ee6abebc46a22f93655f549f8"
+hash = "2b7c679c5cf225e879a3c3bee50890d5db74941ebc77f1da57ae057cdb638a31"
 metafile = true
