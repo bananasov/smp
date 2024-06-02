@@ -212,17 +212,17 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "34beff832b98f209ac50078a6901688c2f1318739c3ebb242ee31d00e2409d3a"
+hash = "7bd086eed8e3dc5cf4f9d708880445e5bc6894c5b872ed54b7244887a554b780"
 metafile = true
 
 [[files]]
 file = "mods/just-enough-professions-jep.pw.toml"
-hash = "413806f003b9c9b62f701d97aaf128534618d25c3fda27505e1543b44fe20f79"
+hash = "a7f3d1029ae3bf50548b6a9a128ea653b4fb69799f11ab2cc64b260232c93ecd"
 metafile = true
 
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
-hash = "a8fe4aa0797f168eaea200788d58958e5c9a4b2830623471b8f338073e8d649e"
+hash = "8535ab9391a8b96d4e13276941c53f6c6f2688c8213e9b0b0cd11f9ac0b0210c"
 metafile = true
 
 [[files]]
@@ -353,6 +353,26 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "7089cdcaf2c1f1b9f6a9a28195c6925cda1af4dce16fd9f6f241d6340d5c8911"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "9e19dce7e8725bc4bcdb710363b113e3c37b1ab29dd23eb8a72bfd60053653f1"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-professions-rep.pw.toml"
+hash = "25718889cf3a2746953ad670c974607a4bc20deff59a8d7fd7f224bddf7197bb"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-resources.pw.toml"
+hash = "b2947b792b57ff884eca4e28c0a351e351565c167792cfec290c7add41aca04e"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-trades.pw.toml"
+hash = "22c6060f20c30119ca2a20b391c1d53faac2bb55780a5797c898f2e14ba0c20d"
 metafile = true
 
 [[files]]
