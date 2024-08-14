@@ -71,6 +71,11 @@ hash = "058699e4832d0cf5396c5ea29244100f0c0e39a8d7aa5b64c2afdcc3cb8c8145"
 metafile = true
 
 [[files]]
+file = "mods/botarium.pw.toml"
+hash = "15f70ccb7c7b0ff27ec791788d24de00fc6f6715311644b0fe374f006c9f230e"
+metafile = true
+
+[[files]]
 file = "mods/catalogue.pw.toml"
 hash = "a7ba514a40fce692ccd896b49727ff1db3975aa284a2adf3c04f9dd7b6fdc82f"
 metafile = true
@@ -157,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "ef203cfb9e4703fc48e154ccc2da9f0a1af4770d49f403f3ed0a581e5498a515"
+hash = "69dd03aa24b8172ed8644a73dd477521afd7ca6841b77320f0d13534968aad3a"
 metafile = true
 
 [[files]]
@@ -168,6 +173,11 @@ metafile = true
 [[files]]
 file = "mods/ender-storage-1-8.pw.toml"
 hash = "638f7c447dbe7dc2e85e4bf89d70fb41632db940a57de498094f2be57fa6c18d"
+metafile = true
+
+[[files]]
+file = "mods/estrogen.pw.toml"
+hash = "10a50f135714044601b13d1d00ef979320e2b5672964eaf300f555ea9259a787"
 metafile = true
 
 [[files]]
@@ -352,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "73f52912d24a121d62ea8c8f7ed00ac8e6ac7cec1a7253ca0cecb24d7cb9f61a"
+hash = "4343bc764af8bce2ba13bc8cedd3b00c7e75b97b6cb47c6055fa0d4071e2bafc"
 metafile = true
 
 [[files]]
